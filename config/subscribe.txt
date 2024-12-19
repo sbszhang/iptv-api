@@ -18,3 +18,4 @@ https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直�
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 #2024年12月19日添加
 https://live.iptv365.org/live.m3u
+https://iptv-org.github.io/iptv/categories/sports.m3u
