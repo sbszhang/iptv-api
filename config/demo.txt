@@ -45,6 +45,9 @@ CCTV-5+
 TennisChannel.us,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8$!
 TennisChannelPlus2.us,https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8$!
 SuperTennisHD.it,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8$!
+NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$!
+NBA TV,https://stream1.freetv.fun/nba-tv-1.m3u8$!
+NBA TV,https://stream1.freetv.fun/nba-tv-8.m3u8$!
 睛彩篮球
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=$!
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8$!
