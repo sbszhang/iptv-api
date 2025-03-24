@@ -22,29 +22,16 @@ CETV2
 CETV4
 CETV5
 
-💰央视付费频道,#genre#
-文化精品
-央视台球
-风云音乐
-第一剧场
-风云剧场
-怀旧剧场
-女性时尚
+🏀网球频道,#genre#
 高尔夫网球
 高尔夫网球,http://180.213.174.225:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$!
 高尔夫网球,http://223.145.224.118:8000/udp/239.76.254.62:9000$!
 高尔夫网球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$!
-风云足球
-电视指南
-世界地理
-兵器科技
-
-🏀体育频道,#genre#
-CCTV-5
-CCTV-5+
 TennisChannel.us,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8$!
 TennisChannelPlus2.us,https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8$!
 SuperTennisHD.it,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8$!
+
+🏀篮球频道,#genre#
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$!
 NBA TV,https://stream1.freetv.fun/nba-tv-1.m3u8$!
 NBA TV,https://stream1.freetv.fun/nba-tv-8.m3u8$!
@@ -65,6 +52,23 @@ NBA TV,https://stream1.freetv.fun/nba-tv-8.m3u8$!
 篮球长镜头,https://www.goodiptv.club/douyu/9399887$!
 篮球过人技巧,https://www.goodiptv.club/douyu/9406897$!
 只关于篮球的只老师,https://www.goodiptv.club/douyu/9367541$!
+
+💰央视付费频道,#genre#
+文化精品
+央视台球
+风云音乐
+第一剧场
+风云剧场
+怀旧剧场
+女性时尚
+风云足球
+电视指南
+世界地理
+兵器科技
+
+🏀体育频道,#genre#
+CCTV-5
+CCTV-5+
 广东体育
 纬来体育
 五星体育
